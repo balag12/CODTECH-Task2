@@ -1,4 +1,4 @@
-NAME: G.BALA \
+NAME: BALA .G \
 COMPANY: CODTECH IT SOLUTION \
 ID: CT4CSEH3541 \
 DOMAIN: Cybersecurity And Ethical Hacking \
